@@ -1,0 +1,22 @@
+#jogo{
+    background-color: aqua;
+    width:603px;
+    height:600px;
+    border:solid 3px; 
+}
+.row
+{
+    height:200px;
+    border-bottom:solid 1px;
+}
+
+.col-md-4
+{
+    width:200px;
+    height:100%;
+    border-right:solid 1px;
+    float:left;
+}
+body{
+     background-color: red;
+ }
